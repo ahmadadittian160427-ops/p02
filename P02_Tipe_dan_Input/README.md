@@ -40,4 +40,6 @@ Folder `p02` di repository `pt-NPM` berisi `sinilai_v01.cpp`, dan  `README.md`. 
 
 ## Deklarasi AI
 
-Tuliskan AI yang digunakan, prompt, dan umpan balik AI
+## Deklarasi AI
+
+Dalam mengerjakan tugas P02 Tipe dan Input, saya menggunakan ChatGPT untuk membantu memahami materi pemrograman C++, terutama tentang tipe data, variabel, konstanta, dan input dasar. Saya juga menggunakan AI untuk mencari contoh kode, memahami fungsi dari setiap bagian kode, dan mencari tahu penyebab kesalahan saat membuat program. Untuk memeriksa hasil dari AI, saya membaca kembali penjelasannya, menyesuaikan kode dengan tugas yang diberikan, dan mencoba menjalankan program melalui Visual Studio Code untuk melihat apakah hasilnya sudah sesuai. Jika ada kesalahan, saya memeriksa kembali kode tersebut dan mencoba memperbaikinya. Dengan bantuan AI, saya jadi lebih mudah memahami materi dan mendapatkan gambaran tentang cara membuat program C++, tetapi saya tetap berusaha mempelajari kode yang digunakan agar tidak hanya menyalin jawaban, melainkan juga memahami cara kerjanya.
